@@ -18,3 +18,14 @@ Write a shell script named `find_perfect_matches.sh` that:
 
 ```bash
 ./find_perfect_matches.sh <query file> <subject file> <output file>
+```
+
+
+## 📁 Repository Structure
+- `CRISPR_1f.fna`: type I-F CRISPR repeat (subject file)
+- `ERR430992.fna`: one example of assembly file used to compare sequences with the CRISPR repeats file (example query file)
+- `ERR43122.fna`: one example of assembly file used to compare sequences with the CRISPR repeats file (example query file)
+- `find_perfect_matches.sh`: script that contains all commands
+
+
+
